@@ -1,0 +1,9 @@
+<list display="Git Commands">
+  <action id="Git.Fetch" />
+  <action id="Git.Pull" />
+  <action id="ChangesView.Commit" />
+  <action id="Gitlab.Create.Merge.Request" />
+  <action id="Gitlab.Create.Merge.Request.List" />
+  <action id="Git.Branches" />
+  <action id="Vcs.Push" />
+</list>
